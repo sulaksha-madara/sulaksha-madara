@@ -1,5 +1,5 @@
 <h1 align="center">⚡ SULA OFFICIAL ⚡</h1><p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=30&center=true&vCenter=true&width=750&lines=SULA+MD+SYSTEM;WHATSAPP+BOT+DEVELOPER;FULL+STACK+AUTOMATION;CYBER+SECURITY+STYLE" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=42&center=true&vCenter=true&width=950&height=90&duration=3000&pause=1000&lines=⚡+WELCOME+TO+SULA+OFFICIAL+PROFILE+⚡;SULA+MD+WHATSAPP+BOT+DEVELOPER" />
 </p>
 
 <p align="center">

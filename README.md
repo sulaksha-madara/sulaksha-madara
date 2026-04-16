@@ -41,6 +41,11 @@
   <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sulaksha-madara&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge"/>
 </p>
+
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sulaksha-madara&theme=matrix&no-frame=true&margin-w=10"/>
+</p>
+
 </p>
 
 🌐 CONNECT WITH ME

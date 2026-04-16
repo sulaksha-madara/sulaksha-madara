@@ -37,6 +37,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sulaksha-madara&show_icons=true&theme=tokyonight&border_radius=15" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaksha-madara&layout=compact&theme=tokyonight&border_radius=15" width="48%" />
+
+  <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sulaksha-madara&label=PROFILE+VIEWS&color=00ff99&style=for-the-badge"/>
+</p>
 </p>
 
 🌐 CONNECT WITH ME

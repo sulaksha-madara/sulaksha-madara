@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-terminal.vercel.app/api?username=SULA&theme=matrix"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00ff99,100:000000&height=60&section=header&text=SYSTEM%20INITIALIZED&fontColor=00ff99"/>
 </p>
 
 🧩 SKILLS & LANGUAGES

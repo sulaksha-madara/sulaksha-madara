@@ -1,17 +1,15 @@
 <h1 align="center">⚡ SULA OFFICIAL ⚡</h1><p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=30&center=true&vCenter=true&width=750&lines=SULA+MD+SYSTEM;WHATSAPP+BOT+DEVELOPER;FULL+STACK+AUTOMATION;CYBER+SECURITY+STYLE" />
-</p><p align="center">
+</p>
+
+⚡ LIVE SYSTEM VISUAL
+
+<p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p><p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff99?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SULA--MD-BOT-00ffff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-AUTOMATION-ff00ff?style=for-the-badge"/>
-</p>---
-
-⚡ LIVE SYSTEM VISUAL
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="500"/>
 </p>---
 
 🧠 ABOUT ME

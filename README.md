@@ -3,6 +3,11 @@
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%2F%20AUTOMATION-00ff99?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STACK-NODE.JS%20%2F%20MONGODB-black?style=for-the-badge"/>
+</p>
+
+<p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p><p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff99?style=for-the-badge"/>

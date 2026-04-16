@@ -43,7 +43,7 @@
 </p>
 
  <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sulaksha-madara&theme=matrix&no-frame=true&margin-w=10"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sulaksha-madara&theme=tokyonight&border_radius=10"/>
 </p>
 
 </p>
@@ -63,6 +63,10 @@
   <a href="https://www.linkedin.com/in/sulaksha-madara">
     <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
+</p>
+
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31&cover_image=true&theme=default"/>
 </p>
 
 🌍 OFFICIAL WEBSITES

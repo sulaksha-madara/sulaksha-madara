@@ -2,15 +2,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&size=30&center=true&vCenter=true&width=750&lines=SULA+MD+SYSTEM;WHATSAPP+BOT+DEVELOPER;FULL+STACK+AUTOMATION;CYBER+SECURITY+STYLE" />
 </p>
 
-⚡ LIVE SYSTEM VISUAL
-
 <p align="center">
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="600"/>
 </p><p align="center">
   <img src="https://img.shields.io/badge/SYSTEM-ONLINE-00ff99?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SULA--MD-BOT-00ffff?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/AI-AUTOMATION-ff00ff?style=for-the-badge"/>
-</p>---
+</p>
 
 🧠 ABOUT ME
 
@@ -20,7 +18,7 @@
 💻 Working with Node.js, Python, MongoDB, Web Systems <br>
 🔥 Building Smart AI & Bot Systems
 
-</p>---
+</p>
 
 🧩 SKILLS & LANGUAGES
 
@@ -32,14 +30,14 @@
   <img src="https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python"/>
   <img src="https://img.shields.io/badge/MongoDB-Database-00ff00?style=for-the-badge&logo=mongodb"/>
   <img src="https://img.shields.io/badge/Automation-AI-ff00ff?style=for-the-badge"/>
-</p>---
+</p>
 
 📊 GITHUB STATS
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sulaksha-madara&show_icons=true&theme=tokyonight&border_radius=15" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sulaksha-madara&layout=compact&theme=tokyonight&border_radius=15" width="48%" />
-</p>---
+</p>
 
 🌐 CONNECT WITH ME
 
@@ -56,7 +54,7 @@
   <a href="https://www.linkedin.com/in/sulaksha-madara">
     <img src="https://img.shields.io/badge/LINKEDIN-PROFILE-0A66C2?style=for-the-badge&logo=linkedin">
   </a>
-</p>---
+</p>
 
 🌍 OFFICIAL WEBSITES
 
@@ -67,7 +65,7 @@
   <a href="https://sulaofc.store">
     <img src="https://img.shields.io/badge/SULA--OFFICIAL-STORE-orange?style=for-the-badge">
   </a>
-</p>---
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:000000&height=130&section=footer"/>

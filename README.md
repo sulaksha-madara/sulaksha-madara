@@ -13,7 +13,7 @@
 🧠 ABOUT ME
 
 <p align="center">👤 <b>SULAKSHA MADARA</b> <br>
-🤖 WhatsApp Bot Developer (SULA OFFICIAL) <br>
+🤖 WhatsApp Bot Developer (SULA MD) <br>
 ⚡ Automation Engineer / Full Stack Developer <br>
 💻 Working with Node.js, Python, MongoDB, Web Systems <br>
 🔥 Building Smart AI & Bot Systems
